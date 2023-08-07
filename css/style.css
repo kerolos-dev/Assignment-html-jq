@@ -1,0 +1,11 @@
+section 
+{
+    margin: auto;
+    background-color: #ccc;
+    width: 5px;
+    height: 10px;
+}
+h4 , .desc , .col-md-3
+{
+    display: none;
+}
